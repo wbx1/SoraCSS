@@ -25,11 +25,11 @@ g)	优化代码，修改BUG…<br>
 
 # 配色方案
 
-棕色:
+棕色:https://static01.wbxcdn.com/soracss/brown.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bf9f9127a.jpg)
 
-深绿色:
+深绿色:https://static01.wbxcdn.com/soracss/dark_green.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bf9f93fd8.jpg)
 
@@ -37,27 +37,27 @@ g)	优化代码，修改BUG…<br>
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902b7b7c86c3.jpg)
 
-红色:
+红色:https://static01.wbxcdn.com/soracss/red.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bf9fc1f02.jpg)
 
-深紫色:
+深紫色:https://static01.wbxcdn.com/soracss/dark_violet.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1a8801.jpg)
 
-浅紫色:
+浅紫色:https://static01.wbxcdn.com/soracss/light_purple.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1a4c6d.jpg)
 
-橙色:
+橙色:https://static01.wbxcdn.com/soracss/orange.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa19ef25.jpg)
 
-浅蓝色:
+浅蓝色:https://static01.wbxcdn.com/soracss/light_blue.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa19b125.jpg)
 
-亮粉色:
+亮粉色:https://static01.wbxcdn.com/soracss/hot_pink.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1cb6eb.jpg)
 
@@ -65,10 +65,10 @@ g)	优化代码，修改BUG…<br>
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902b7b7c6938.jpg)
 
-灰色:
+灰色:https://static01.wbxcdn.com/soracss/gray.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1a2267.jpg)
 
-黑色:
+黑色:https://static01.wbxcdn.com/soracss/black.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1986e4.jpg)
