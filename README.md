@@ -26,39 +26,49 @@ g)	优化代码，修改BUG…<br>
 # 配色方案
 
 棕色:
-![配色]()
+
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bf9f9127a.jpg)
 
 深绿色:
-![配色]()
+
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bf9f93fd8.jpg)
 
 浅绿色:https://static01.wbxcdn2.com/soracss/light_green.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902b7b7c86c3.jpg)
 
 红色:
-![配色]()
+
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bf9fc1f02.jpg)
 
 深紫色:
-![配色]()
+
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1a8801.jpg)
 
 浅紫色:
-![配色]()
+
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1a4c6d.jpg)
 
 橙色:
-![配色]()
+
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa19ef25.jpg)
 
 浅蓝色:
-![配色]()
+
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa19b125.jpg)
 
 亮粉色:
-![配色]()
+
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1cb6eb.jpg)
 
 淡粉色:https://static01.wbxcdn2.com/soracss/light_pink.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902b7b7c6938.jpg)
 
 灰色:
-![配色]()
+
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1a2267.jpg)
 
 黑色:
-![配色]()
+
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1986e4.jpg)
