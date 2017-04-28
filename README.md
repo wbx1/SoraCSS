@@ -41,7 +41,7 @@ g)	优化代码，修改BUG…<br>
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bf9fc1f02.jpg)
 
-深紫色:https://static01.wbxcdn.com/soracss/dark_violet.css
+深紫色:https://static01.wbxcdn.com/soracss/dark_purple.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1a8801.jpg)
 
@@ -51,7 +51,7 @@ g)	优化代码，修改BUG…<br>
 
 橙色:https://static01.wbxcdn.com/soracss/orange.css
 
-![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa19ef25.jpg)
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1cb6eb.jpg)
 
 浅蓝色:https://static01.wbxcdn.com/soracss/light_blue.css
 
@@ -59,7 +59,7 @@ g)	优化代码，修改BUG…<br>
 
 亮粉色:https://static01.wbxcdn.com/soracss/hot_pink.css
 
-![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1cb6eb.jpg)
+![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa19ef25.jpg)
 
 淡粉色:https://static01.wbxcdn2.com/soracss/light_pink.css
 
