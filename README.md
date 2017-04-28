@@ -30,8 +30,8 @@ g)	优化代码，修改BUG…<br>
 深绿色:
 ![配色]()
 
-浅绿色:
-![配色]()
+浅绿色:https://static01.wbxcdn2.com/soracss/light_green.css
+![配色](https://ooo.0o0.ooo/2017/04/28/5902b7b7c6938.jpg)
 
 红色:
 ![配色]()
@@ -51,8 +51,8 @@ g)	优化代码，修改BUG…<br>
 亮粉色:
 ![配色]()
 
-淡粉色:
-![配色]()
+淡粉色:https://static01.wbxcdn2.com/soracss/light_pink.css
+![配色](https://ooo.0o0.ooo/2017/04/28/5902b7b7c86c3.jpg)
 
 灰色:
 ![配色]()
