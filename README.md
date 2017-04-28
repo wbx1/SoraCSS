@@ -53,9 +53,13 @@ g)	优化代码，修改BUG…<br>
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1cb6eb.jpg)
 
-浅蓝色:https://static01.wbxcdn.com/soracss/light_blue.css
+浅蓝色:https://static01.wbxcdn.com/soracss/blue.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa19b125.jpg)
+
+浅蓝色:https://static01.wbxcdn.com/soracss/light_blue.css
+
+![配色](https://ooo.0o0.ooo/2017/04/28/5902c1d300ba5.jpg)
 
 亮粉色:https://static01.wbxcdn.com/soracss/hot_pink.css
 
