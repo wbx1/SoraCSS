@@ -1,6 +1,7 @@
 # Sora CSS 主题美化 By wbx
 ### 介绍
 本CSS用于美化 INN SORA 主题(https://inn-studio.com/sora/) Sora主题由INN STUDIO所有。我只是美化和修改CSS。<br>
+外链链接已使用CDN加速，绝对不会拖慢网站速度。
 
 ### 更新与修改记录 （仅这次更新，所有更新请看 更新日志.txt）
 a)	优化 添加网页滚动栏和文字选中时的颜色（基于自定主颜色）<br>
