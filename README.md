@@ -9,6 +9,6 @@
 
 由于是Beta开发版，所以只有一个配色 亮粉色
 
-引用链接:https://gitcdn.wbxcdn2.com/wbx/SoraCSS/raw/Beta/hot_pink_beta.css
+引用链接:https://git.wbx123.org/wbx/SoraCSS/raw/Beta/hot_pink_beta.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa19ef25.jpg)
