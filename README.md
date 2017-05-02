@@ -77,3 +77,22 @@ f)	优化代码，修改BUG…<br>
 黑色:https://static01.wbxcdn2.com/soracss/black.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1986e4.jpg)
+
+## 已使用站点
+萝莉学校 (http://loli.school)
+
+Zの小屋 (http://www.acgnsora.com/)
+
+吉人动漫 (http://jren100.com/)
+
+萌x领域 (https://acgmx.cc/)
+
+风铃窝 (https://www.acg15.com/)
+
+里番萌 (https://lifanmoe.com/)
+
+萌心次元 (https://moxacg.moe/)
+
+次元街 (http://www.ciyuanjie.cn/)
+
+次元叁 (https://www.isaru.com/)
