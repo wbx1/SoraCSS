@@ -85,7 +85,7 @@ Zの小屋 (http://www.acgnsora.com/)
 
 吉人动漫 (http://jren100.com/)
 
-萌x领域 (https://acgmx.cc/)
+ACG幻诗音墨 (https://acg.sionmoe.com/)
 
 风铃窝 (https://www.acg15.com/)
 
