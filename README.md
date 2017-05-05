@@ -81,8 +81,6 @@ f)	优化代码，修改BUG…<br>
 ## 已使用站点
 萝莉学校 (http://loli.school)
 
-Zの小屋 (http://www.acgnsora.com/)
-
 吉人动漫 (http://jren100.com/)
 
 ACG幻诗音墨 (https://acg.sionmoe.com/)
