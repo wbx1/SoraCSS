@@ -2,6 +2,7 @@
 ### 介绍
 本CSS用于美化 INN SORA 主题(https://inn-studio.com/sora/) Sora主题由INN STUDIO所有。我只是美化和修改CSS。<br>
 外链链接已使用CDN加速，绝对不会拖慢网站速度。<br>
+全球4家CDN公司一起用！<br>
 想试试看Beta版？https://git.wbx123.org/wbx/SoraCSS/tree/Beta
 
 ### 更新与修改记录 （仅这次更新，所有更新请看 更新日志.txt）
