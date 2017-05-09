@@ -83,7 +83,7 @@ g)	优化代码，修改BUG…<br>
 ## 已使用站点
 萝莉学校 (http://loli.school)
 
-吉人动漫 (http://jren100.com/)
+吉人动漫 (http://jren100.com/) 已本地缓存
 
 ACG幻诗音墨 (https://acg.sionmoe.com/)
 
@@ -93,6 +93,6 @@ ACG幻诗音墨 (https://acg.sionmoe.com/)
 
 萌心次元 (https://moxacg.moe/)
 
-次元街 (http://www.ciyuanjie.cn/)
+次元街 (http://www.ciyuanjie.cn/) 已本地缓存
 
-次元叁 (https://www.isaru.com/)
+次元叁 (https://www.isaru.com/) 已本地缓存
