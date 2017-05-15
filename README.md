@@ -96,3 +96,5 @@ ACG幻诗音墨 (https://acg.sionmoe.com/)
 次元街 (http://www.ciyuanjie.cn/) 已本地缓存
 
 次元叁 (https://www.isaru.com/) 已本地缓存
+
+萌幻之乡 (https://huan.moe/)
