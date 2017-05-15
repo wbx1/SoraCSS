@@ -89,7 +89,7 @@ ACG幻诗音墨 (https://acg.sionmoe.com/)
 
 风铃窝 (https://www.acg15.com/)
 
-里番萌 (https://lifanmoe.com/)
+里番萌 (https://lifanmoe.net/)
 
 萌心次元 (https://moxacg.moe/)
 
