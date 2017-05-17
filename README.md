@@ -87,7 +87,7 @@ g)	优化代码，修改BUG…<br>
 
 ACG幻诗音墨 (https://acg.sionmoe.com/)
 
-风铃窝 (https://www.acg15.com/)
+风铃窝 (https://www.acg15.com/) 已本地缓存
 
 里番萌 (https://lifanmoe.net/)
 
@@ -98,3 +98,8 @@ ACG幻诗音墨 (https://acg.sionmoe.com/)
 次元叁 (https://www.isaru.com/) 已本地缓存
 
 萌幻之乡 (https://huan.moe/)
+
+### !不提倡本地缓存!
+1、无法快速接收更新
+2、访问速度下降
+3、BUG无法及时获取补丁
