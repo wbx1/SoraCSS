@@ -6,14 +6,8 @@
 想试试看Beta版？https://git.wbx123.org/wbx/SoraCSS/tree/Beta
 
 ### 更新与修改记录 （仅这次更新，所有更新请看 更新日志.txt）
-a)	整体视角变圆<br>
-b)	部分按钮变圆<br>
-c)	手机版个人菜单在右方<br>
-d)	修改“下载，收藏，赞”按钮颜色并添加手机访问时大小自适应<br>
-e)	极度精简化（追求简洁）<br>
-f)	修改按钮和窗口颜色和形状<br>
-g)	优化代码，修改BUG…<br>
-最后更新于 2017-5-6<br>
+a)	优化代码，修改BUG…<br>
+最后更新于 2017-8-24<br>
 
 ### 使用方法
 **1**、更新主题到3.2.0+
@@ -79,25 +73,6 @@ g)	优化代码，修改BUG…<br>
 黑色:https://static01.wbxcdn2.com/soracss/black.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1986e4.jpg)
-
-## 已使用站点
-萝莉学校 (http://loli.school)
-
-吉人动漫 (http://jren100.com/) 已本地缓存
-
-ACG幻诗音墨 (https://acg.sionmoe.com/)
-
-风铃窝 (https://www.acg15.com/) 已本地缓存
-
-里番萌 (https://lifanmoe.net/)
-
-萌心次元 (https://moxacg.moe/)
-
-次元街 (http://www.ciyuanjie.cn/) 已本地缓存
-
-次元叁 (https://www.isaru.com/) 已本地缓存
-
-萌幻之乡 (https://huan.moe/)
 
 ### !不提倡本地缓存!
 1、无法快速接收更新
