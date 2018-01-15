@@ -50,7 +50,7 @@ a)	优化代码，修改BUG…<br>
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa1cb6eb.jpg)
 
-浅蓝色:https://static01.wbxcdn2.com/soracss/blue.css
+天蓝色:https://static01.wbxcdn2.com/soracss/blue.css
 
 ![配色](https://ooo.0o0.ooo/2017/04/28/5902bfa19b125.jpg)
 
