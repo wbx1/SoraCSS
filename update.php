@@ -1,0 +1,1 @@
+<?php header('Content-Type:text/json;charset=utf-8');$date=date_create();$str=array('name'=>'SoraCSS By wbx','timestamp'=>date_timestamp_get($date),'version'=>'4.0.0','homepage'=>'https://github.com/wbx1/SoraCSS');$jsonencode=json_encode($str);echo$jsonencode;?>
