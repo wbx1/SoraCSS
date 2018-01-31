@@ -1,6 +1,6 @@
 /*!
 SoraCSS V4.0.0
-Test 3
+Test 4
 By wbx
 Don't change or remove!
 */
@@ -4309,7 +4309,7 @@ input[type=radio] {
 	border: 1px solid #eee;
 	padding: 1rem 1rem .5rem;
 	border-bottom-width: 2px;
-	border-radius: 4px
+	border-radius: 10px
 }
 
 @media (max-width:767px) {
@@ -4333,7 +4333,7 @@ input[type=radio] {
 }
 
 .panel {
-	border-radius: 4px;
+	border-radius: 10px;
 	margin-bottom: 1rem
 }
 
@@ -4389,7 +4389,7 @@ select {
 	background: #fff;
 	width: 100%;
 	padding: .5rem 1rem;
-	border-radius: 4px;
+	border-radius: 10px;
 	border: 1px solid rgba(0, 0, 0, .1)
 }
 
@@ -4437,7 +4437,7 @@ select {
 	border: none;
 	text-align: center;
 	color: #fff;
-	border-radius: 4px;
+	border-radius: 10px;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
 	text-decoration: none!important;
 	white-space: nowrap;
@@ -4746,7 +4746,7 @@ a.media {
 }
 
 .list-group .list-group-item:first-child {
-	border-radius: 4px 4px 0 0
+	border-radius: 10px 4px 0 0
 }
 
 .list-group .list-group-item:last-child {
@@ -4779,7 +4779,7 @@ a.media {
 	background: hsla(0, 0%, 100%, .95);
 	box-shadow: 0 1px 1px 0 hsla(0, 0%, 75%, .35);
 	color: #959595;
-	border-radius: 4px;
+	border-radius: 10px;
 	padding: 0 .5rem
 }
 
@@ -4844,7 +4844,7 @@ a.label:active {
 .label {
 	display: inline-block;
 	color: #fff;
-	border-radius: 4px;
+	border-radius: 10px;
 	padding: .2rem .5rem;
 	white-space: nowrap
 }
@@ -4894,7 +4894,7 @@ a.label:active {
 	margin-bottom: 1rem;
 	line-height: 3;
 	box-shadow: 0 1px 1px 0 hsla(0, 0%, 75%, .35);
-	border-radius: 4px
+	border-radius: 10px
 }
 
 .nav-vertical>*>a,
@@ -4935,7 +4935,7 @@ a.label:active {
 		padding: 0;
 		margin: 0 0 .5rem;
 		border: 1px solid #eee;
-		border-radius: 4px;
+		border-radius: 10px;
 		box-shadow: 0 1px 1px 0 hsla(0, 0%, 75%, .35);
 		line-height: 2;
 		text-align: left
@@ -5003,7 +5003,7 @@ table thead {
 
 fieldset {
 	border: 1px solid #eee;
-	border-radius: 4px;
+	border-radius: 10px;
 	padding: .5rem 1rem 0;
 	margin-bottom: 1rem
 }
@@ -5058,7 +5058,7 @@ fieldset legend {
 	color: #fff;
 	content: attr(title);
 	text-align: center;
-	border-radius: 4px;
+	border-radius: 10px;
 	padding: .2rem .5rem;
 	font-size: 1rem;
 	z-index: 10;
@@ -5140,7 +5140,7 @@ fieldset legend {
 	background: #fff;
 	max-height: 100%;
 	box-shadow: 0 10px 50px rgba(0, 0, 0, .5);
-	border-radius: 4px;
+	border-radius: 10px;
 	z-index: 1;
 	pointer-events: auto
 }
@@ -5510,7 +5510,7 @@ p {
 	top: 0;
 	width: auto;
 	height: 100%;
-	border-radius: 4px 4px 0 0;
+	border-radius: 10px 4px 0 0;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%)
 }
@@ -5619,7 +5619,7 @@ p {
 }
 
 .card.flexible .thumbnail-container .thumbnail {
-	border-radius: 4px 4px 0 0;
+	border-radius: 10px 4px 0 0;
 	position: static;
 	width: auto;
 	height: 225px
@@ -5642,7 +5642,7 @@ p {
 }
 
 .card .color-cat-container .color-cat {
-	border-radius: 4px 4px 0 0;
+	border-radius: 10px 4px 0 0;
 	padding: .1rem .5rem
 }
 
@@ -5886,7 +5886,7 @@ p {
 }
 
 .widget.widget_calendar table thead {
-	border-radius: 4px
+	border-radius: 10px
 }
 
 .widget.widget_calendar table td,
@@ -6028,7 +6028,7 @@ p {
 	pointer-events: none;
 	top: 100%;
 	left: 0;
-	border-radius: 4px;
+	border-radius: 10px;
 	-webkit-transform: translate3d(0, -10%, 0);
 	transform: translate3d(0, -10%, 0);
 	border: 3px solid #ff7d7f;
@@ -6316,7 +6316,7 @@ p {
 .content-reset fieldset {
 	padding: 0 1rem .5rem;
 	border: 1px solid #eee;
-	border-radius: 4px;
+	border-radius: 10px;
 	margin-bottom: 1rem
 }
 
@@ -6372,7 +6372,7 @@ p {
 	border: 1px solid #ddd;
 	border-collapse: separate;
 	border-left: 0;
-	border-radius: 4px
+	border-radius: 10px
 }
 
 .content-reset table td,
@@ -6396,7 +6396,7 @@ p {
 
 .content-reset table tbody:first-child tr:first-child td:first-child,
 .content-reset table thead:first-child tr:first-child th:first-child {
-	border-radius: 4px 0 0 0
+	border-radius: 10px 0 0 0
 }
 
 .content-reset table tbody:first-child tr:first-child td:last-child,
@@ -6777,7 +6777,7 @@ p {
 	position: relative;
 	display: block;
 	height: 10rem;
-	border-radius: 4px;
+	border-radius: 10px;
 	margin-bottom: 1rem;
 	overflow: hidden
 }
@@ -7289,7 +7289,7 @@ p {
 	background: rgba(0, 0, 0, .05);
 	white-space: normal;
 	z-index: 10;
-	border-radius: 4px;
+	border-radius: 10px;
 	text-shadow: none
 }
 
@@ -7455,7 +7455,7 @@ p {
 #entry-toc {
 	position: relative;
 	font-size: 1rem;
-	border-radius: 4px
+	border-radius: 10px
 }
 
 @media (min-width:960px) {
@@ -7476,7 +7476,7 @@ p {
 	border: 1px solid rgba(0, 0, 0, .05);
 	background: rgba(0, 0, 0, .01);
 	border-width: 1px 1px 0;
-	border-radius: 4px 4px 0 0
+	border-radius: 10px 4px 0 0
 }
 
 #entry-toc .toc-item-container {
@@ -7501,7 +7501,7 @@ p {
 
 #entry-toc.fold .toc-title {
 	border-width: 1px;
-	border-radius: 4px
+	border-radius: 10px
 }
 
 #entry-toc.fold .toc-item-container {
@@ -7523,7 +7523,7 @@ p {
 
 .entry-toc-up:hover {
 	background: rgba(0, 0, 0, .05);
-	border-radius: 4px
+	border-radius: 10px
 }
 
 .post-flip {
@@ -7719,7 +7719,7 @@ p {
 	width: 100%;
 	max-width: 100%;
 	height: auto;
-	border-radius: 4px
+	border-radius: 10px
 }
 
 .ad-container {
@@ -7746,7 +7746,7 @@ p {
 .widget-ad .adbox>a>img {
 	min-width: 100%;
 	height: auto;
-	border-radius: 4px
+	border-radius: 10px
 }
 
 #back-to-top {
@@ -8384,7 +8384,7 @@ p {
 	transform: translate3d(0, -10%, 0);
 	border: 3px solid #ff7d7f;
 	box-shadow: 0 0 1px 1px rgba(0, 0, 0, .1);
-	border-radius: 4px;
+	border-radius: 10px;
 	color: #55292a
 }
 
@@ -8944,7 +8944,7 @@ p {
 	width: 15rem;
 	border: 4px solid rgba(0, 0, 0, .1);
 	margin: 0 1rem 1rem 0;
-	border-radius: 4px
+	border-radius: 10px
 }
 
 .point-bomb-container .item-container li.active {
@@ -9130,7 +9130,7 @@ p {
 .widget-vcard h3 a {
 	color: #ff7d7f;
 	padding: .1rem .5rem;
-	border-radius: 4px
+	border-radius: 10px
 }
 
 .widget-vcard h3 a:hover {
@@ -9310,7 +9310,7 @@ p {
 	background: hsla(0, 0%, 100%, .95);
 	margin-bottom: 1rem;
 	box-shadow: 0 1px 1px 0 hsla(0, 0%, 75%, .35);
-	border-radius: 4px
+	border-radius: 10px
 }
 
 .author-comment-container .thumbnail {
