@@ -1,6 +1,6 @@
 /*!
 SoraCSS V4.0.0
-Test 5
+Test 6
 By wbx
 Don't change or remove!
 */
@@ -1290,37 +1290,6 @@ Don't change or remove!
 .fadeIn {
 	-webkit-animation-name: u;
 	animation-name: u
-}
-
-@-webkit-keyframes v {
-	0% {
-		opacity: 0;
-		-webkit-transform: translate3d(0, -100%, 0);
-		transform: translate3d(0, -100%, 0)
-	}
-	to {
-		opacity: 1;
-		-webkit-transform: none;
-		transform: none
-	}
-}
-
-@keyframes v {
-	0% {
-		opacity: 0;
-		-webkit-transform: translate3d(0, -100%, 0);
-		transform: translate3d(0, -100%, 0)
-	}
-	to {
-		opacity: 1;
-		-webkit-transform: none;
-		transform: none
-	}
-}
-
-.fadeInDown {
-	-webkit-animation-name: v;
-	animation-name: v
 }
 
 @-webkit-keyframes w {
@@ -3082,35 +3051,6 @@ Don't change or remove!
 	animation-name: sb
 }
 
-@-webkit-keyframes ub {
-	0% {
-		-webkit-transform: translateZ(0);
-		transform: translateZ(0)
-	}
-	to {
-		visibility: hidden;
-		-webkit-transform: translate3d(0, 100%, 0);
-		transform: translate3d(0, 100%, 0)
-	}
-}
-
-@keyframes ub {
-	0% {
-		-webkit-transform: translateZ(0);
-		transform: translateZ(0)
-	}
-	to {
-		visibility: hidden;
-		-webkit-transform: translate3d(0, 100%, 0);
-		transform: translate3d(0, 100%, 0)
-	}
-}
-
-.slideOutDown {
-	-webkit-animation-name: ub;
-	animation-name: ub
-}
-
 @-webkit-keyframes vb {
 	0% {
 		-webkit-transform: translateZ(0);
@@ -3167,35 +3107,6 @@ Don't change or remove!
 .slideOutRight {
 	-webkit-animation-name: wb;
 	animation-name: wb
-}
-
-@-webkit-keyframes xb {
-	0% {
-		-webkit-transform: translateZ(0);
-		transform: translateZ(0)
-	}
-	to {
-		visibility: hidden;
-		-webkit-transform: translate3d(0, -100%, 0);
-		transform: translate3d(0, -100%, 0)
-	}
-}
-
-@keyframes xb {
-	0% {
-		-webkit-transform: translateZ(0);
-		transform: translateZ(0)
-	}
-	to {
-		visibility: hidden;
-		-webkit-transform: translate3d(0, -100%, 0);
-		transform: translate3d(0, -100%, 0)
-	}
-}
-
-.slideOutUp {
-	-webkit-animation-name: xb;
-	animation-name: xb
 }
 
 article,
@@ -4445,8 +4356,11 @@ select {
 	background: #fafafa;
 	color: #666;
 	text-shadow: none;
-  border: 2px solid rgb(170, 217, 246);
   border-radius: 25px;
+}
+
+a.Tappable-inactive.btn.btn-default {
+    border: 2px solid rgb(170, 217, 246);
 }
 
 form.search-bar-fm {
@@ -7620,6 +7534,7 @@ p {
   border-color: rgba(153, 153, 153, 0.29);
   background: #f6f6f6;
   box-shadow: 0px 0px 20px 4px rgba(204, 204, 204, 0.37);
+  border-radius: 10px;
 }
 
 @media (max-width:767px) {
