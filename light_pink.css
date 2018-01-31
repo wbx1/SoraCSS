@@ -5550,7 +5550,7 @@ p {
 	position: relative;
 	background: hsla(0, 0%, 100%, .95);
 	box-shadow: 0 1px 1px 0 hsla(0, 0%, 75%, .35);
-	border-radius: 4px;
+	border-radius: 10px;
 	overflow: hidden
 }
 
@@ -8421,8 +8421,8 @@ p {
 
 .entry-footer-meta-container .meta a {
 	position: relative;
-	width: 7rem;
-	height: 7rem;
+	width: 8.5rem;
+	height: 8.5rem;
 	display: block;
 	color: #fff
 }
@@ -8432,11 +8432,11 @@ p {
 	position: absolute;
 	left: 0;
 	right: 0;
-	top: 1.5rem
+	top: 2.2rem
 }
 
 .entry-footer-meta-container .meta a .number+.tx {
-	bottom: 2rem
+	bottom: 2.2rem
 }
 
 .entry-footer-meta-container .meta a .tx {
@@ -9229,7 +9229,7 @@ p {
 }
 
 #customReport-container a {
-	color: #959595
+	color: #ff5722
 }
 
 .preset-reason-container .item {
