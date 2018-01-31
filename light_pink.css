@@ -3024,35 +3024,6 @@ Don't change or remove!
 	animation-name: pb
 }
 
-@-webkit-keyframes qb {
-	0% {
-		-webkit-transform: translate3d(0, -100%, 0);
-		transform: translate3d(0, -100%, 0);
-		visibility: visible
-	}
-	to {
-		-webkit-transform: translateZ(0);
-		transform: translateZ(0)
-	}
-}
-
-@keyframes qb {
-	0% {
-		-webkit-transform: translate3d(0, -100%, 0);
-		transform: translate3d(0, -100%, 0);
-		visibility: visible
-	}
-	to {
-		-webkit-transform: translateZ(0);
-		transform: translateZ(0)
-	}
-}
-
-.slideInDown {
-	-webkit-animation-name: qb;
-	animation-name: qb
-}
-
 @-webkit-keyframes rb {
 	0% {
 		-webkit-transform: translate3d(-100%, 0, 0);
@@ -3109,35 +3080,6 @@ Don't change or remove!
 .slideInRight {
 	-webkit-animation-name: sb;
 	animation-name: sb
-}
-
-@-webkit-keyframes tb {
-	0% {
-		-webkit-transform: translate3d(0, 100%, 0);
-		transform: translate3d(0, 100%, 0);
-		visibility: visible
-	}
-	to {
-		-webkit-transform: translateZ(0);
-		transform: translateZ(0)
-	}
-}
-
-@keyframes tb {
-	0% {
-		-webkit-transform: translate3d(0, 100%, 0);
-		transform: translate3d(0, 100%, 0);
-		visibility: visible
-	}
-	to {
-		-webkit-transform: translateZ(0);
-		transform: translateZ(0)
-	}
-}
-
-.slideInUp {
-	-webkit-animation-name: tb;
-	animation-name: tb
 }
 
 @-webkit-keyframes ub {
@@ -5642,8 +5584,8 @@ p {
 }
 
 .card .color-cat-container .color-cat {
-	border-radius: 10px 4px 0 0;
-	padding: .1rem .5rem
+	border-radius: 10px 10px 0 0;
+	padding: .3rem .5rem
 }
 
 .card.sticky .card-bg:before {
