@@ -8411,11 +8411,11 @@ p {
 }
 
 .entry-footer-meta-container .meta {
-	background: #fa8546;
+	background: #9bd1f2;
 	margin: 0 .33333rem .33333rem;
-	font-size: 1.3rem;
-	border-radius: 50%;
-	margin-bottom: 1rem
+	font-size: 1.5rem;
+	border-radius: 100%;
+	margin-bottom: 2rem
 }
 
 .entry-footer-meta-container .meta a {
@@ -8444,11 +8444,11 @@ p {
 }
 
 .entry-footer-meta-container .meta:nth-child(2) {
-	background: #58c780
+	background: #84e3d7
 }
 
 .entry-footer-meta-container .meta:nth-child(3) {
-	background: #f9bb43
+	background: #c7b2f2
 }
 
 .entry-footer-meta-container .meta:nth-child(4) {
