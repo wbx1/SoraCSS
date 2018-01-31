@@ -1,6 +1,6 @@
 /*!
 SoraCSS V4.0.0
-Test 4
+Test 5
 By wbx
 Don't change or remove!
 */
@@ -4332,21 +4332,20 @@ select {
 	width: 100%;
 	padding: .5rem 1rem;
 	border-radius: 10px;
-	border: 1px solid rgba(0, 0, 0, .1)
+	border: 1.5px solid rgb(170, 217, 246)
 }
 
 .form-control:hover,
 .widget.widget_categories select:hover,
 .widget.widget_search form input[type=text]:hover {
-	border-color: rgba(0, 0, 0, .2)
+	border-color: rgb(170, 217, 246)
 }
 
 .form-control:focus,
 .widget.widget_categories select:focus,
 .widget.widget_search form input[type=text]:focus {
 	outline: 0;
-	border-color: #ff7d7f;
-	box-shadow: 0 0 3px #ff7d7f
+	border-color: rgb(170, 217, 246);
 }
 
 .input-group {
@@ -4383,7 +4382,7 @@ select {
 	text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
 	text-decoration: none!important;
 	white-space: nowrap;
-	box-shadow: 0 1px 1px 0 hsla(0, 0%, 75%, .35)
+	box-shadow: 0px 1px 9px 0px hsla(0, 0%, 75%, .35)
 }
 
 .btn.btn-lg,
@@ -4445,7 +4444,15 @@ select {
 .widget.widget_search form input[type=submit] {
 	background: #fafafa;
 	color: #666;
-	text-shadow: none
+	text-shadow: none;
+  border: 2px solid rgb(170, 217, 246);
+  border-radius: 25px;
+}
+
+form.search-bar-fm {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 
 .btn.btn-default:hover,
@@ -4688,7 +4695,7 @@ a.media {
 }
 
 .list-group .list-group-item:first-child {
-	border-radius: 10px 4px 0 0
+	border-radius: 10px 10px 0 0
 }
 
 .list-group .list-group-item:last-child {
@@ -5106,14 +5113,7 @@ fieldset legend {
 }
 
 .poi-dialog-overlay {
-	background: rgba(0, 0, 0, .5);
-	position: fixed;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	top: 0;
-	pointer-events: none;
-	display: none
+
 }
 
 .poi-dialog-overlay.on {
@@ -5452,7 +5452,7 @@ p {
 	top: 0;
 	width: auto;
 	height: 100%;
-	border-radius: 10px 4px 0 0;
+	border-radius: 10px 10px 0 0;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%)
 }
@@ -5561,7 +5561,7 @@ p {
 }
 
 .card.flexible .thumbnail-container .thumbnail {
-	border-radius: 10px 4px 0 0;
+	border-radius: 10px 10px 0 0;
 	position: static;
 	width: auto;
 	height: 225px
@@ -7418,7 +7418,7 @@ p {
 	border: 1px solid rgba(0, 0, 0, .05);
 	background: rgba(0, 0, 0, .01);
 	border-width: 1px 1px 0;
-	border-radius: 10px 4px 0 0
+	border-radius: 10px 10px 0 0
 }
 
 #entry-toc .toc-item-container {
@@ -7615,7 +7615,11 @@ p {
 	width: 50%;
 	left: 25%;
 	opacity: 0;
-	pointer-events: none
+	pointer-events: none;
+  border: 1px solid;
+  border-color: rgba(153, 153, 153, 0.29);
+  background: #f6f6f6;
+  box-shadow: 0px 0px 20px 4px rgba(204, 204, 204, 0.37);
 }
 
 @media (max-width:767px) {
@@ -7627,7 +7631,8 @@ p {
 
 .search-bar-main-container.on {
 	opacity: 1;
-	pointer-events: auto
+	pointer-events: auto;
+  margin-top: 15rem;
 }
 
 .search-overlay {
@@ -8100,6 +8105,7 @@ p {
 	transform: translate(-50%, -50%);
 	box-shadow: 0 1px 10px rgba(0, 0, 0, .3);
 	max-height: 360px;
+  border-radius: 10px;
 	width: auto
 }
 
@@ -8161,7 +8167,8 @@ p {
 #slideshow-container .style2 .thumbnails img {
 	width: auto;
 	height: 150px;
-	box-shadow: 0 1px 3px rgba(0, 0, 0, .3)
+	box-shadow: 0 1px 3px rgba(0, 0, 0, .3);
+  border-radius: 10px;
 }
 
 #slideshow-container .style2 .thumbnails .title {
@@ -8173,7 +8180,8 @@ p {
 	text-shadow: 0 1px 1px #000;
 	z-index: 1;
 	-webkit-transform: translateY(-50%);
-	transform: translateY(-50%)
+	transform: translateY(-50%);
+  border-radius: 10px;
 }
 
 @media (max-width:959px) {
